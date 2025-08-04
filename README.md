@@ -1,2 +1,15 @@
-# Austin-Baker-Portfolio
-As part of my journey from data analyst to data scientist, this portfolio demonstrates my growing expertise in core data science techniques. Each project reflects real-world problem-solving with machine learning, Bayesian inference, NLP, and more—built from scratch or using industry-standard tools.
+# 🧠 Data Science Portfolio
+
+A curated collection of data science projects demonstrating my transition from data analyst to data scientist. The portfolio includes work on machine learning, Bayesian A/B testing, natural language processing, and forecasting. Each project emphasizes practical application, mathematical understanding, and clean, reproducible code using Python and tools like scikit-learn, TensorFlow, and PyTorch.
+
+## 🔍 Key Areas
+- Supervised and unsupervised learning
+- Bayesian methods and adaptive experiments
+- Deep learning and transformer models
+- NLP: topic modeling, sentiment analysis
+- Time series analysis and forecasting
+
+## 📁 Projects
+- [Bayesian A/B Testing](./bayesian-ab-testing)
+- [NLP Review Clustering](./nlp-product-reviews)
+- [Time Series Forecasting](./gas-forecasting)
